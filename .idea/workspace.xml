@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bee306a-a210-4482-9441-70877684b959" name="Changes" comment="replace" />
+    <list default="true" id="2bee306a-a210-4482-9441-70877684b959" name="Changes" comment="Merge remote-tracking branch 'origin/HomeWork' into HomeWork" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -18,6 +25,12 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "skolinpy"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -40,6 +53,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.task1.1.executor": "Run",
+    "Python.task1.2.executor": "Run",
     "Python.task1.executor": "Run",
     "Python.task2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -128,12 +143,29 @@
       <option name="project" value="LOCAL" />
       <updated>1706719408247</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/HomeWork' into HomeWork">
+      <option name="closed" value="true" />
+      <created>1706719651554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706719651554</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/HomeWork' into HomeWork">
+      <option name="closed" value="true" />
+      <created>1706722503244</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706722503244</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="replace" />
-    <option name="LAST_COMMIT_MESSAGE" value="replace" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/HomeWork' into HomeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/HomeWork' into HomeWork" />
   </component>
 </project>
