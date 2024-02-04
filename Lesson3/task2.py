@@ -6,5 +6,5 @@ print(b)
 c = input("число c=")
 print(c)
 d=round((int(a)+int(b)+int(c))/3,3)
-print("Среднее арифметическое ваших чисел" ,end=" равено ")
-print(d)
+print(f"Среднее арифметическое ваших чисел {d}")
+
