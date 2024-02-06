@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bee306a-a210-4482-9441-70877684b959" name="Changes" comment="посчитать позитив негатив">
-      <change afterPath="$PROJECT_DIR$/Lesson3/3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson4/task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/belhard74.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/belhard74.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +68,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "HomeWork",
-    "last_opened_file_path": "C:/practice",
-    "settings.editor.selected.configurable": "configurable.group.tools"
+    "last_opened_file_path": "C:/belhard74/venv",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">
