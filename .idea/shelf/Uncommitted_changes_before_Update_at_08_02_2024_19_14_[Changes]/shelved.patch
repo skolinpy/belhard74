@@ -1,0 +1,83 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"2bee306a-a210-4482-9441-70877684b959\" name=\"Changes\" comment=\"посчитать позитив негатив\">\r\n      <change afterPath=\"$PROJECT_DIR$/Lesson3/3.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;skolinpy&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"95f84ca3-a89a-4b87-90c7-16c4d94117af\" />\r\n        <option name=\"url\" value=\"https://github.com/skolinpy/belhard74.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2bhsKacqeUvsWiC1wtdiPk36Nz5\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Python.3.executor\": \"Run\",\r\n    \"Python.task1.1.executor\": \"Run\",\r\n    \"Python.task1.2.executor\": \"Run\",\r\n    \"Python.task1.executor\": \"Run\",\r\n    \"Python.task2.executor\": \"Run\",\r\n    \"Python.task4.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"HomeWork\",\r\n    \"last_opened_file_path\": \"C:/practice\",\r\n    \"settings.editor.selected.configurable\": \"configurable.group.tools\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"2bee306a-a210-4482-9441-70877684b959\" name=\"Changes\" comment=\"\" />\r\n      <created>1706678581847</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1706678581847</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"replace\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706719383532</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706719383532</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"replace\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706719408247</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706719408247</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Merge remote-tracking branch 'origin/HomeWork' into HomeWork\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706719651554</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706719651554</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Merge remote-tracking branch 'origin/HomeWork' into HomeWork\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706722503244</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706722503244</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Merge remote-tracking branch 'origin/HomeWork' into HomeWork\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706722569501</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706722569501</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Merge remote-tracking branch 'origin/HomeWork' into HomeWork\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1706722648020</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1706722648020</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Merge remote-tracking branch 'origin/HomeWork' into HomeWork\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707065853846</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707065853846</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Merge remote-tracking branch 'origin/HomeWork' into HomeWork\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707066265958</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707066265958</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Merge remote-tracking branch 'origin/HomeWork' into HomeWork\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707066276363</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707066276363</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"посчитать позитив негатив\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1707067642634</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1707067642634</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"11\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"initial commit\" />\r\n    <MESSAGE value=\"replace\" />\r\n    <MESSAGE value=\"Merge remote-tracking branch 'origin/HomeWork' into HomeWork\" />\r\n    <MESSAGE value=\"посчитать позитив негатив\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"посчитать позитив негатив\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 0c3575812798897db552ab68585b0947039e496f)
++++ b/.idea/workspace.xml	(date 1707069753192)
+@@ -4,8 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="2bee306a-a210-4482-9441-70877684b959" name="Changes" comment="посчитать позитив негатив">
+-      <change afterPath="$PROJECT_DIR$/Lesson3/3.py" afterDir="false" />
++    <list default="true" id="2bee306a-a210-4482-9441-70877684b959" name="Changes" comment="приветственное предложение 3способ %s">
++      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -55,6 +55,8 @@
+   </component>
+   <component name="PropertiesComponent"><![CDATA[{
+   "keyToString": {
++    "Python.3.2.executor": "Run",
++    "Python.3.3.executor": "Run",
+     "Python.3.executor": "Run",
+     "Python.task1.1.executor": "Run",
+     "Python.task1.2.executor": "Run",
+@@ -164,7 +166,39 @@
+       <option name="project" value="LOCAL" />
+       <updated>1707067642634</updated>
+     </task>
+-    <option name="localTasksCounter" value="11" />
++    <task id="LOCAL-00011" summary="приветственное педложение 1способ">
++      <option name="closed" value="true" />
++      <created>1707068292886</created>
++      <option name="number" value="00011" />
++      <option name="presentableId" value="LOCAL-00011" />
++      <option name="project" value="LOCAL" />
++      <updated>1707068292886</updated>
++    </task>
++    <task id="LOCAL-00012" summary="приветственное педложение 1способ">
++      <option name="closed" value="true" />
++      <created>1707068348773</created>
++      <option name="number" value="00012" />
++      <option name="presentableId" value="LOCAL-00012" />
++      <option name="project" value="LOCAL" />
++      <updated>1707068348773</updated>
++    </task>
++    <task id="LOCAL-00013" summary="приветственное педложение 2способ">
++      <option name="closed" value="true" />
++      <created>1707068565811</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1707068565811</updated>
++    </task>
++    <task id="LOCAL-00014" summary="приветственное предложение 3способ %s">
++      <option name="closed" value="true" />
++      <created>1707069703615</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1707069703615</updated>
++    </task>
++    <option name="localTasksCounter" value="15" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+@@ -172,6 +206,9 @@
+     <MESSAGE value="replace" />
+     <MESSAGE value="Merge remote-tracking branch 'origin/HomeWork' into HomeWork" />
+     <MESSAGE value="посчитать позитив негатив" />
+-    <option name="LAST_COMMIT_MESSAGE" value="посчитать позитив негатив" />
++    <MESSAGE value="приветственное педложение 1способ" />
++    <MESSAGE value="приветственное педложение 2способ" />
++    <MESSAGE value="приветственное предложение 3способ %s" />
++    <option name="LAST_COMMIT_MESSAGE" value="приветственное предложение 3способ %s" />
+   </component>
+ </project>
+\ No newline at end of file
